@@ -10,3 +10,4 @@ Fichier terraform pour création petit déploiement IaaS
 * règles de pare-feu
   * http 80
   * ssh 22
+Compris
